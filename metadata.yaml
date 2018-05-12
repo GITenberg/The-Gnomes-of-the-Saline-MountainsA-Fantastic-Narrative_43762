@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42395
 description: The gnomes of the Saline Mountains -- The artist -- The street singer
   -- Concetta.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43762#The-Gnomes-of-the-Saline-MountainsA-Fantastic-Narrative
 gutenberg_issued: '2013-09-18'
 gutenberg_type: Text
 identifiers:
